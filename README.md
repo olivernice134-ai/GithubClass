@@ -1,0 +1,2 @@
+# GithubClass
+Smart Image Compressor 
