@@ -1,2 +1,2 @@
 # GithubClass
-Smart Image Compressor 
+### This is my first project with github
